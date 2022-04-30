@@ -1,6 +1,8 @@
-**29/04/2022-22:00:**
+**30/04/2022-17:20:**
 
--Added "quick language" feature
+*-Added "gather button" to in-game menu*
+
+*-Added "quick language" feature*
 
 -Added "change in-game button orientations" feature
 
