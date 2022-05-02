@@ -14,6 +14,8 @@
 
 *-Added "copy server ip" feature*
 
+-Added "show player names"
+
 Fixed Some Bugs
 
 **30/04/2022:**
