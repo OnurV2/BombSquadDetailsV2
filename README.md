@@ -1,5 +1,4 @@
 **02/05/2022:**
-<span color="red">red</span>
 
 -PartyWindow-
 
