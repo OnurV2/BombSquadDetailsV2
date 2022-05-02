@@ -14,6 +14,8 @@
 
 *-Added "copy server ip" feature*
 
+Fixed Some Bugs
+
 **30/04/2022:**
 
 *-Added "gather button" to in-game menu*
