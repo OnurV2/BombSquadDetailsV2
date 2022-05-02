@@ -2,7 +2,7 @@
 
 **Note: If you want to use party window features in this plugin you need to disable other party window mods**
 
-**-PartyWindow-**
+**-𝐏𝐚𝐫𝐭𝐲𝐖𝐢𝐧𝐝𝐨𝐰-**
 
 *-Added "copy messages in chat" feature*
 
