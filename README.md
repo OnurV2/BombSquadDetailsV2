@@ -28,9 +28,9 @@ Fixed Some Bugs
 
 Fixed Some Bugs
 
-**30/04/2022:**
-
 **-𝐎𝐭𝐡𝐞𝐫 𝐃𝐞𝐭𝐚𝐢𝐥𝐬-**
+
+**30/04/2022:**
 
 *-Added "gather button" to in-game menu*
 
