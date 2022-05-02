@@ -1,3 +1,19 @@
+**02/05/2022:**
+
+-PartyWindow-
+
+*-Added "copy messages in chat" feature*
+
+*-Added "open links in chat" feature*
+
+*-Added "ping" feature*
+
+*-Added "change ping command" feature*
+
+*-Added "change ping message" feature*
+
+*-Added "copy server ip" feature*
+
 **30/04/2022:**
 
 *-Added "gather button" to in-game menu*
