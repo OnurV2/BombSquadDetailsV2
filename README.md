@@ -16,7 +16,7 @@
 
 *-Added "copy server ip" feature*
 
--Added "show player names"
+-Added "show player names" feature
 
 Fixed Some Bugs
 
