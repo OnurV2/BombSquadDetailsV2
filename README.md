@@ -44,6 +44,6 @@ Fixed Some Bugs
 
 -Added "change in-game button orientations" feature
 
--Added "in-game exit button" for mobile users
+-Added "in-game exit button" for android users
 
 Fixed Some Bugs
