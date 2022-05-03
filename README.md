@@ -2,7 +2,7 @@
 
 **Note: If you want to use party window features in this plugin you need to disable other party window mods**
 
-**03/05/2022-20:30:**
+**03/05/2022:**
 
 *-Added "one-click reconnection to the server you are on" feature*
 
