@@ -4,6 +4,12 @@
 
 **02/05/2022-20:30:**
 
+*-Added "one-click reconnection to the server you are on" feature*
+
+Fixed Some Bugs
+
+**02/05/2022-20:30:**
+
 *-Added "Clear chat messages" feature*
 
 Added some details and options
