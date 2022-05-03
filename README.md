@@ -16,8 +16,6 @@ Fixed Some Bugs
 
 *-Added "open links in chat" feature*
 
-*-Added "Remove chat limit" feature*
-
 *-Added "ping" feature*
 
 *-Added "change ping command" feature*
