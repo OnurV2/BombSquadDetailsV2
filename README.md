@@ -22,7 +22,7 @@ Fixed Some Bugs
 
 *-Added "open links in chat" feature*
 
-*-Added "ping" feature*
+*-Added "check ping" feature*
 
 *-Added "change ping command" feature*
 
