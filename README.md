@@ -2,6 +2,12 @@
 
 **Note: If you want to use party window features in this plugin you need to disable other party window mods**
 
+**04/05/2022:**
+
+*-Added "Hide in-game chat messages" feature*
+
+Fixed Some Bugs
+
 **03/05/2022:**
 
 *-Added "one-click reconnection to the server you are on" feature*
