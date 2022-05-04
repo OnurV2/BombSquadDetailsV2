@@ -10,8 +10,6 @@ Fixed Some Bugs
 
 **02/05/2022-20:30:**
 
-*-Added "Clear chat messages" feature*
-
 Added some details and options
 
 Fixed Some Bugs
