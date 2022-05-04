@@ -1,4 +1,4 @@
-# BombSquadDetailsV2
+**BombSquadDetailsV2**
 
 **-𝐏𝐚𝐫𝐭𝐲𝐖𝐢𝐧𝐝𝐨𝐰-**
 
