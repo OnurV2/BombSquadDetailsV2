@@ -10,7 +10,7 @@ Fixed Some Bugs
 
 **02/05/2022-20:30:**
 
-Added some details and options
+-Added some details and options
 
 Fixed Some Bugs
 
